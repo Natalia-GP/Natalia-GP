@@ -26,6 +26,8 @@
 ![icons8-nodejs-96](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/914d7094-721c-4882-9fe4-d75f87e15e9a)
 ![icons8-react-80](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3f3fba6c-882d-4ea7-9790-b9c329500772)
 ![icons8-Angular](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/0c9bdabd-10a9-4cfc-842b-f44b86c4ae47)
+![icons8-next.js](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/b51c7895-b293-4609-9d4c-e85f8ab4d048)
+
 
 ### Database:
 ![icons8-sql-60](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3831868a-ae1d-4ad0-81e2-0de5e5cca3bf)
