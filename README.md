@@ -18,6 +18,7 @@
 ![icons8-css-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/55ad5432-c3ae-43b9-9d4d-882e0a159584)
 ![icons8-js-96](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/0cf3ad86-351a-424a-9526-0528aa0dcdda)
 ![icons8-react-80](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3f3fba6c-882d-4ea7-9790-b9c329500772)
+![icons8-Angular](https://icons8.com/icon/j9DnICNnlhGk/angularjs)
 
  ### Frameworks and library:
  
