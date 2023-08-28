@@ -31,6 +31,8 @@
 ![icons8-react-80](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3f3fba6c-882d-4ea7-9790-b9c329500772)
 ![icons8-Angular](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/0c9bdabd-10a9-4cfc-842b-f44b86c4ae47)
 ![icons8-next.js](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/b9f0e671-0f9a-4ca1-acb0-9d7e822221df)
+<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
 
 
 ### Database:
@@ -45,9 +47,8 @@
 ![icons8-discord-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/79db725e-1381-45c6-8b18-54036bf87a37)
 
 ## Other:
-
-  <img width="80" height="80" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img  width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img width="80" height="80" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img  width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
          
           
  ## 🎯 Currently:
