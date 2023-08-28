@@ -1,4 +1,8 @@
 # Hi there I´m Natalia Front-end Developer👋
+:rocket: Madrileña y graduada en Educación Primaria.
+
+:hamster: Amante de las cobayas, escultora apasionada y loca por el cómic europeo.
+
 <div id="header" align="center">
   <img width="260" height="260" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/0b974140-1851-4b04-bef3-e019d49b763f">
 </div>
