@@ -33,8 +33,6 @@
 ![icons8-next.js](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/b9f0e671-0f9a-4ca1-acb0-9d7e822221df)
 
 
-
-
 ### Database:
 ![icons8-sql-60](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3831868a-ae1d-4ad0-81e2-0de5e5cca3bf)
 
@@ -46,9 +44,15 @@
 ![icons8-slack-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/b67b082e-a5f4-4848-b196-a9bf689d78d1)
 ![icons8-discord-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/79db725e-1381-45c6-8b18-54036bf87a37)
 
+## Other:
+
+  <img width="80" height="80" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img  width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+         
+          
  ## 🎯 Currently:
-  I'm currently increasing my knowledge in Angular and Mongodb
-  <div id="" align="left">
+ Actualemente estoy incrementando mis conocimientos en Angular, Next.Js y Typescript
+  <div id="" align="center">
   <img width="260" height="260" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/5ef4ee73-e935-45e3-875b-023b69a17909">
 </div>
 THX!
