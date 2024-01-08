@@ -53,7 +53,7 @@
          
           
  ## 🎯 Currently:
- Actualemente estoy incrementando mis conocimientos en Angular, Next.Js y Typescript
+ Actualemente estoy incrementando mis conocimientos en Azure, C# y ASP.net
   <div id="" align="center">
   <img width="260" height="260" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/5ef4ee73-e935-45e3-875b-023b69a17909">
 </div>
