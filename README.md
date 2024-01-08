@@ -1,5 +1,5 @@
 # Hi there I´m Natalia Front-end Developer👋
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=460&vCenter=true&lines=Full-Stack+developer,+better+person+😊+">
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=460&vCenter=true&lines=Front-end+developer,😊">
 </p>
 :rocket: Madrileña y graduada en Educación Primaria.
 
