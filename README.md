@@ -1,6 +1,5 @@
 # Hi there I´m Natalia Front-end Developer👋
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=460&vCenter=true&lines= Madrileña+y+graduada+en+Educación+Primaria,+😊">
-</p>
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=460&vCenter=true&lines=Madrileña+y+graduada+en+Educación+Primaria,+😊"></p>
 :rocket: Madrileña y graduada en Educación Primaria.
 
 :hamster: Amante de las cobayas, escultora apasionada y loca por el cómic europeo.
