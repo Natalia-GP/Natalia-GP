@@ -43,10 +43,14 @@
 
 ### Database:
 ![icons8-sql-60](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3831868a-ae1d-4ad0-81e2-0de5e5cca3bf)
+<img width="80" height="80" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/65b72610-46b7-45a3-8784-c82f98af3c68" />
+
+
 
 ### Terminal and IDE:
 ![icons8-git-96](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/f7069241-e832-4f29-a7c3-4faee1547529)
 ![icons8-visual-studio-128](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/7764e728-3efb-4a25-bdd1-3f54a1358d77)
+
  ### Social:
 ![icons8-github-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3a30d736-774c-43ab-b2e4-4e9f0d5490ff)
 ![icons8-slack-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/b67b082e-a5f4-4848-b196-a9bf689d78d1)
@@ -55,10 +59,13 @@
 ## Other:
 <img width="80" height="80" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img  width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img  width="80" height="80" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/44e257b5-9bac-4433-8f3c-ec314dbe8712" />
+
+
          
           
  ## 🎯 Currently:
- Actualemente estoy incrementando mis conocimientos en Azure, C# y ASP.net
+ Actualemente estoy incrementando mis conocimientos en Azure y ASP.net
   <div id="" align="center">
   <img width="260" height="260" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/5ef4ee73-e935-45e3-875b-023b69a17909">
 </div>
