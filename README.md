@@ -24,6 +24,7 @@
 ![icons8-html-96](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/3638e25e-62eb-4af3-835e-714280f53686)
 ![icons8-css-100](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/55ad5432-c3ae-43b9-9d4d-882e0a159584)
 ![icons8-js-96](https://github.com/Natalia-GP/Natalia-GP/assets/112758485/0cf3ad86-351a-424a-9526-0528aa0dcdda)
+<img width="80" height="80" src="https://github.com/Natalia-GP/Natalia-GP/assets/112758485/82a121e5-50cc-4024-9b29-28932c633eba"/>
 
 
 
